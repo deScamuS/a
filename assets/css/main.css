@@ -4175,10 +4175,10 @@
 /* Footer */
 
 	#footer {
-		background-color: #F64747;
+		background-color: #797db1;
 		color: #fdd1d1;
 		padding: 6em 0 4em 0;
-		background: #F64747;
+		background: #797db1;
 	}
 
 		#footer input, #footer select, #footer textarea {
@@ -4275,7 +4275,7 @@
 			#footer button.special,
 			#footer .button.special {
 				background-color: #ffffff;
-				color: #F64747 !important;
+				color:#797db1 !important;
 			}
 
 		#footer label {
@@ -4319,7 +4319,7 @@
 		#footer input[type="radio"]:checked + label:before {
 			background-color: #ffffff;
 			border-color: #ffffff;
-			color: #F64747;
+			color: #797db1;
 		}
 
 		#footer input[type="checkbox"]:focus + label:before,
