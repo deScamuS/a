@@ -2840,7 +2840,7 @@
 	}
 
 		.wrapper.style1 {
-			background-color: #F64747;
+			background-color: #241e1d;
 			color: #fdd1d1;
 		}
 
@@ -2938,7 +2938,7 @@
 				.wrapper.style1 button.special,
 				.wrapper.style1 .button.special {
 					background-color: #ffffff;
-					color: #F64747 !important;
+					color: #241e1d !important;
 				}
 
 			.wrapper.style1 label {
@@ -3053,7 +3053,7 @@
 			}
 
 			.wrapper.style2 a {
-				color: #F64747;
+				color: #241e1d;
 			}
 
 			.wrapper.style2 strong, .wrapper.style2 b {
@@ -3134,7 +3134,7 @@
 					.wrapper.style2 input[type="button"].special:hover,
 					.wrapper.style2 button.special:hover,
 					.wrapper.style2 .button.special:hover {
-						background-color: #f75f5f;
+						background-color: #241e1d;
 					}
 
 					.wrapper.style2 input[type="submit"].special:active,
@@ -3142,7 +3142,7 @@
 					.wrapper.style2 input[type="button"].special:active,
 					.wrapper.style2 button.special:active,
 					.wrapper.style2 .button.special:active {
-						background-color: #f52f2f;
+						background-color: #241e1d;
 					}
 
 			.wrapper.style2 label {
@@ -3163,8 +3163,8 @@
 				.wrapper.style2 input[type="email"]:focus,
 				.wrapper.style2 select:focus,
 				.wrapper.style2 textarea:focus {
-					border-color: #F64747;
-					box-shadow: 0 0 0 1px #F64747;
+					border-color: #241e1d;
+					box-shadow: 0 0 0 1px #241e1d;
 				}
 
 			.wrapper.style2 .select-wrapper:before {
