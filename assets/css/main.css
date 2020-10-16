@@ -2982,7 +2982,7 @@
 			.wrapper.style1 input[type="radio"]:checked + label:before {
 				background-color: #ffffff;
 				border-color: #ffffff;
-				color: #F64747;
+				color: #241e1d;
 			}
 
 			.wrapper.style1 input[type="checkbox"]:focus + label:before,
